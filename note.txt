@@ -1,0 +1,2 @@
+python manage.py runserver (run server)
+python manage.py migrate (setup)
